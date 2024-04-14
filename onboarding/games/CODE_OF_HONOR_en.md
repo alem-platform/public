@@ -1,4 +1,4 @@
-## Code of honor
+### Code of honor
 
 You agree to uphold to the following principles of integrity and honesty:
 

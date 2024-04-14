@@ -1,4 +1,4 @@
-# Terms of service
+### Terms of service
 
 I agree that:
 - During the admission period I will be in age between 18 and 40;

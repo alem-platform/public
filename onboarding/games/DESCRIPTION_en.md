@@ -1,4 +1,4 @@
-## Before you start
+### Before you start
 
 Here are two games to assess your memory and logic abilities. They have rules, but we won't tell you what they are — you'll have to figure them out yourself. That's part of the challenge.
 
