@@ -2,13 +2,13 @@
 
 You agree to uphold to the following principles of integrity and honesty:
 
-**Honest Participation**
+#### Honest Participation
 You pledge to engage in the games without cheating, using only your skills and knowledge to advance through the levels.
 
-**No Unauthorized Assistance**
+#### No Unauthorized Assistance
 You agree not to use external help, ensuring all game progress is the result of your individual effort.
 
-**Integrity in Conduct**
+#### Integrity in Conduct
 You promise not to share answers or exploit any part of the games for an unfair advantage, maintaining the spirit of fair competition.
 
 
