@@ -14,8 +14,8 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a ZOOM meeting for details
 
-- May 21, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/MnojD2JBuaKkuKfs5)}
-- May 23, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/7fS3SpZ7DH4RCWv17)}
-- May 28, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/Qhdn5zMk1cVk6fBb9)}
-- May 30, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/WrKrS3oArqC2LBy37)}
+- Sep 3, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/qaWu1KWeu7HHRsmi8)}
+- Sep 5, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/wtsgH6sYB5jHN2yz5)}
+- Sep 10, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/vYvc1Q7FXV3yKRL57)}
+- Sep 12, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/TueXNMe6yquB7KQ69)}
 
