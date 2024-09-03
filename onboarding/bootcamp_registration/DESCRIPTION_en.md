@@ -2,7 +2,7 @@
 
 The bootcamp is an intense four-week, on-campus training challenge designed to prepare you for the main program in Go and other programming languages.
 
-- **Start Date:** September 28th
+- **Start Date:** September 23th
 - **Location:** Astana (on-campus only)
 - **Duration:** Four weeks
 - **Schedule:** 40+ hours per week, including weekends
