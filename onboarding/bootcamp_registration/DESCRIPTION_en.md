@@ -2,7 +2,7 @@
 
 The bootcamp is an intense four-week, on-campus training challenge designed to prepare you for the main program in Go and other programming languages.
 
-- **Start Date:** September 23th
+- **Start Date:** November 11th
 - **Location:** Astana (on-campus only)
 - **Duration:** Four weeks
 - **Schedule:** 40+ hours per week, including weekends
@@ -14,8 +14,8 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a ZOOM meeting for details
 
-- Sep 3, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/qaWu1KWeu7HHRsmi8)}
-- Sep 5, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/wtsgH6sYB5jHN2yz5)}
-- Sep 10, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/vYvc1Q7FXV3yKRL57)}
-- Sep 12, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/TueXNMe6yquB7KQ69)}
+- Oct 22, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/P9nD3sYT3MyhQHde8)}
+- Oct 24, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/r5NTWAfPwJzdLPPEA)}
+- Oct 29, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/8Sf2FP8F25BjXXec7)}
+- Oct 31, 2024, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://calendar.app.google/x3JwXZVdFSi1RvcbA)}
 
