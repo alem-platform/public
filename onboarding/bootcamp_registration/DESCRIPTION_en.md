@@ -15,9 +15,6 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 #### Book a ZOOM meeting for details
 
 - Apr 15, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
-- Apr 17, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
 - Apr 22, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
-- Apr 24, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
 - Apr 29, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
-- May 02, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
 
