@@ -15,6 +15,6 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 #### Book a ZOOM meeting for details
 
 - May 28, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
-- Jun 04, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
-- Jun 11, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
+- June 04, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
+- June 11, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
 
