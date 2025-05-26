@@ -2,7 +2,7 @@
 
 The bootcamp is an intense four-week, on-campus training challenge designed to prepare you for the main program in Go and other programming languages.
 
-- **Start Date:** May 5th
+- **Start Date:** June 16th
 - **Location:** Astana (on-campus only)
 - **Duration:** Four weeks
 - **Schedule:** 40+ hours per week, including weekends
@@ -14,7 +14,7 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a ZOOM meeting for details
 
-- Apr 15, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
-- Apr 22, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
-- Apr 29, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/xgk-ckrn-kve)}
+- May 28, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/cxe-xdio-nmm)}
+- Jun 04, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/cxe-xdio-nmm)}
+- Jun 11, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/cxe-xdio-nmm)}
 
