@@ -6,7 +6,7 @@ Although the foundation course is less intensive than a BootCamp, it still requi
 
 We have dedicated our best efforts to create the curriculum and find the most interesting projects. We expect you to do the same by committing your time and energy. If you are ready, then go!
 
-- **Start Date:** April 28th
+- **Start Date:** June 23th
 - **Location:** Astana (on-campus only)
 - **Duration:** 3 month
 
