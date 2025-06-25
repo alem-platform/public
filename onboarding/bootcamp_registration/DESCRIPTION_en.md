@@ -2,7 +2,7 @@
 
 The bootcamp is an intense four-week, on-campus training challenge designed to prepare you for the main program in Go and other programming languages.
 
-- **Start Date:** June 16th
+- **Start Date:** Jule 28th
 - **Location:** Astana (on-campus only)
 - **Duration:** Four weeks
 - **Schedule:** 40+ hours per week, including weekends
@@ -12,9 +12,8 @@ This bootcamp is designed to be an immersive experience, requiring full dedicati
 
 Many of our students describe this bootcamp as the most fun and life-changing experience they've ever had. The more dedicated you are, the more you will benefit.
 
-#### Book a ZOOM meeting for details
+#### Book a Google Meets for details
 
-- May 28, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
-- June 04, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
-- June 11, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/fzb-kuan-ufr)}
+- Jule 09, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/hpn-fhdb-mhx)}
+- Jule 23, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/hpn-fhdb-mhx)}
 
