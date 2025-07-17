@@ -2,7 +2,7 @@
 
 The sprint is an intense two-week, on-campus training challenge designed to prepare you for the main track on learning front-end development skills.
 
-- **Start Date:** November 18th
+- **Start Date:** July 21st
 - **Location:** Astana (on-campus only)
 - **Duration:** Two weeks
 - **Schedule:** 35+ hours per week, including weekends
