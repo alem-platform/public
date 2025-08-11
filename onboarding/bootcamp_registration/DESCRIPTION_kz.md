@@ -14,5 +14,5 @@ Bootcamp - бұл сізді Go және басқа бағдарламалау �
 
 #### Толық ақпарат алу үшін Google Meet кеңесіне жазылу
 
-- 2025 жылғы 10 қыркүйек, 17:00 – 18:00 (GMT+5) {[Күнтізбеге қосу]([https://meet.google.com/hpn-fhdb-mhx](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWk5dDNuZ2ZyMmJuMm1yc3ZwdDJzbmlxc3QgNTZiZGJjZmNkYTI1NTUwMjU4MmMxYTViMjJiZTA4ZWMwYmI4NWIzZDAyMmY1ZTVhNGY5ZDdkZDBmZmU3MjNlYkBn&tmsrc=56bdbcfcda255502582c1a5b22be08ec0bb85b3d022f5e5a4f9d7dd0ffe723eb%40group.calendar.google.com)}
+- 2025 жылғы 10 қыркүйек, 17:00 – 18:00 (GMT+5) {[Күнтізбеге қосу](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWk5dDNuZ2ZyMmJuMm1yc3ZwdDJzbmlxc3QgNTZiZGJjZmNkYTI1NTUwMjU4MmMxYTViMjJiZTA4ZWMwYmI4NWIzZDAyMmY1ZTVhNGY5ZDdkZDBmZmU3MjNlYkBn&tmsrc=56bdbcfcda255502582c1a5b22be08ec0bb85b3d022f5e5a4f9d7dd0ffe723eb%40group.calendar.google.com)}
 - 2025 жылғы 24 қыркүйек, 17:00 – 18:00 (GMT+5) {[Күнтізбеге қосу](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWZrNGdha3Z2NGVpdWlpOWY4OWpwbnVpbjMgNTZiZGJjZmNkYTI1NTUwMjU4MmMxYTViMjJiZTA4ZWMwYmI4NWIzZDAyMmY1ZTVhNGY5ZDdkZDBmZmU3MjNlYkBn&tmsrc=56bdbcfcda255502582c1a5b22be08ec0bb85b3d022f5e5a4f9d7dd0ffe723eb%40group.calendar.google.com)}
