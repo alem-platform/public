@@ -14,5 +14,5 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a Google Meets for details
 
-- September 10, 2025, 17:00 - 18:00 (GMT+5) {[Add to calendar](https://meet.google.com/yta-mrsc-kab)}
-- September 24, 2025, 17:00 - 18:00 (GMT+5) {[Add to calendar](https://meet.google.com/zcz-vixa-xpz)}
+- September 10, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting](https://meet.google.com/yta-mrsc-kab)}
+- September 24, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting](https://meet.google.com/zcz-vixa-xpz)}
