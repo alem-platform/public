@@ -2,7 +2,7 @@
 
 The bootcamp is an intense four-week, on-campus training challenge designed to prepare you for the main program in Go and other programming languages.
 
-- **Start Date:** Jule 28th
+- **Start Date:** October 27th
 - **Location:** Atyrau (on-campus only)
 - **Duration:** Four weeks
 - **Schedule:** 40+ hours per week, including weekends
@@ -14,6 +14,6 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a Google Meets for details
 
-- Jule 09, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/hpn-fhdb-mhx)}
-- Jule 23, 2025, 18:00 - 19:00 (GMT+5) {[Add to calendar](https://meet.google.com/hpn-fhdb-mhx)}
+- October 08, 2025, 17:00 - 18:00 (GMT+5) {[Add to calendar](https://calendar.app.google/ekN4baEbLGKPR6f16)}
+- October 22, 2025, 17:00 - 18:00 (GMT+5) {[Add to calendar](https://calendar.app.google/sqt1MtMAXKNhGQyk6)}
 
