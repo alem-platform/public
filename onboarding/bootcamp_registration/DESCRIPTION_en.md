@@ -2,7 +2,7 @@
 
 The bootcamp is an intense four-week, on-campus training challenge designed to prepare you for the main program in Go and other programming languages.
 
-- **Start Date:** October 6th
+- **Start Date:** January 26th
 - **Location:** Astana (on-campus only)
 - **Duration:** Four weeks
 - **Schedule:** 40+ hours per week, including weekends
@@ -14,5 +14,5 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a Google Meets for details
 
-- September 10, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting](https://meet.google.com/yta-mrsc-kab)}
-- September 24, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting](https://meet.google.com/zcz-vixa-xpz)}
+- December 24, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting]}
+- January 14, 2026, 17:00 - 18:00 (GMT+5) {[Join meeting]}
