@@ -14,5 +14,5 @@ Many of our students describe this bootcamp as the most fun and life-changing ex
 
 #### Book a Google Meets for details
 
-- December 24, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting]}
-- January 14, 2026, 17:00 - 18:00 (GMT+5) {[Join meeting]}
+- December 24, 2025, 17:00 - 18:00 (GMT+5) {[Join meeting](https://meet.google.com/mns-fczk-svq)}
+- January 14, 2026, 17:00 - 18:00 (GMT+5) {[Join meeting](https://meet.google.com/ree-wwok-rba)}
